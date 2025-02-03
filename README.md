@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+| ![delumengyu1's GitHub stats](https://github-readme-stats.vercel.app/api?username=delumengyu1&show_icons=true&theme=buefy&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delumengyu1&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
+</div>
+
 <!--
 **delumengyu1/delumengyu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
